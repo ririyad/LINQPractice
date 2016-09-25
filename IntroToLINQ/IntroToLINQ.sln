@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToLINQ", "IntroToLINQ\IntroToLINQ.csproj", "{F10E21A9-CF25-47A3-B81C-259D19267399}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroExample2", "IntroExample2\IntroExample2.csproj", "{1AFE30EE-1914-41C4-B2E0-4601E21CBC9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F10E21A9-CF25-47A3-B81C-259D19267399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F10E21A9-CF25-47A3-B81C-259D19267399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F10E21A9-CF25-47A3-B81C-259D19267399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFE30EE-1914-41C4-B2E0-4601E21CBC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFE30EE-1914-41C4-B2E0-4601E21CBC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFE30EE-1914-41C4-B2E0-4601E21CBC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFE30EE-1914-41C4-B2E0-4601E21CBC9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
